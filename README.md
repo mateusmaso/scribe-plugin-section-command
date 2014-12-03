@@ -1,2 +1,2 @@
-scribe-plugin-section-command.js
-================================
+scribe-plugin-section-command
+=============================
